@@ -11,3 +11,4 @@
 8. [Recurrent neural networks](https://www.youtube.com/watch?v=LHXXI4-IEns&ab_channel=TheA.I.Hacker-MichaelPhi)
 9. [Pytorch RNN implementation](https://www.youtube.com/watch?v=0_PgWWmauHk&ab_channel=PythonEngineer)
 10. [Activation functions](https://www.analyticsvidhya.com/blog/2020/01/fundamentals-deep-learning-activation-functions-when-to-use-them/)
+11. [MLP model building](https://medium.com/analytics-vidhya/steps-you-should-follow-to-successfully-train-mlp-40a98c3b5bb3)
