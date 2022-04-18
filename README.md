@@ -1,4 +1,16 @@
-# ST311-Project
+# Stock price prediction using LSTM and MLP
+
+### Overview and motivation
+
+### Description
+The dataset for this project can be found [here](https://www.kaggle.com/code/manthanx/stock-price-lstm-technical-analysis/data).
+
+### How to run
+- Make sure you have the following packages: Pytorch, pandas
+
+### Improvements
+
+### Conclusion
 
 ### References
 1. [MLP in stock prediction prices](https://10mohi6.medium.com/super-easy-python-stock-price-forecasting-using-multilayer-perceptron-machine-learning-4f1d1ef9650)
