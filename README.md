@@ -13,3 +13,4 @@
 10. [Activation functions](https://www.analyticsvidhya.com/blog/2020/01/fundamentals-deep-learning-activation-functions-when-to-use-them/)
 11. [MLP model building](https://medium.com/analytics-vidhya/steps-you-should-follow-to-successfully-train-mlp-40a98c3b5bb3)
 12. [Normalising data](https://www.journaldev.com/45109/normalize-data-in-python)
+13. [Measuring accuracy](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
