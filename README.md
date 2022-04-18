@@ -13,7 +13,7 @@ The dataset for this project can be found [here](https://www.kaggle.com/code/man
 ### Conclusion
 
 ### References
-1. [MLP in stock prediction prices](https://10mohi6.medium.com/super-easy-python-stock-price-forecasting-using-multilayer-perceptron-machine-learning-4f1d1ef9650)
+1. [MLP in stock prediction prices - part 1](https://10mohi6.medium.com/super-easy-python-stock-price-forecasting-using-multilayer-perceptron-machine-learning-4f1d1ef9650)
 2. [MLP in short-term predictions ](https://www.researchgate.net/publication/220798177_Short-term_stock_price_prediction_using_MLP_in_moving_simulation_mode)
 3. [Deep learning - part 1](https://d2l.ai/)
 4. [Deep learning - part 2](https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf)
