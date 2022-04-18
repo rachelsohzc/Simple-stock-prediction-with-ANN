@@ -14,7 +14,7 @@ The dataset for this project can be found [here](https://www.kaggle.com/code/man
 
 ### References
 1. [MLP in stock prediction prices](https://10mohi6.medium.com/super-easy-python-stock-price-forecasting-using-multilayer-perceptron-machine-learning-4f1d1ef9650)
-2. [MLP in short-term predictions](https://www.researchgate.net/publication/220798177_Short-term_stock_price_prediction_using_MLP_in_moving_simulation_mode)
+2. [MLP in short-term predictions ](https://www.researchgate.net/publication/220798177_Short-term_stock_price_prediction_using_MLP_in_moving_simulation_mode)
 3. [Deep learning - part 1](https://d2l.ai/)
 4. [Deep learning - part 2](https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf)
 5. [Deep learning - part 3](http://alvarestech.com/temp/deep/Python%20Deep%20Learning%20Exploring%20deep%20learning%20techniques,%20neural%20network%20architectures%20and%20GANs%20with%20PyTorch,%20Keras%20and%20TensorFlow%20by%20Ivan%20Vasilev,%20Daniel%20Slater,%20Gianmario%20Spacagna,%20Peter%20Roelants,%20Va%20(z-lib.org).pdf)
@@ -26,3 +26,4 @@ The dataset for this project can be found [here](https://www.kaggle.com/code/man
 11. [MLP model building](https://medium.com/analytics-vidhya/steps-you-should-follow-to-successfully-train-mlp-40a98c3b5bb3)
 12. [Normalising data](https://www.journaldev.com/45109/normalize-data-in-python)
 13. [Measuring accuracy](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
+14. [MLP in stock prediction - part 2](https://www.rsisinternational.org/journals/ijrsi/digital-library/volume-5-issue-7/46-50.pdf)
