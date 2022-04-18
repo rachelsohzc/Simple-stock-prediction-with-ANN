@@ -28,3 +28,4 @@ The dataset for this project can be found [here](https://www.kaggle.com/code/man
 13. [Measuring accuracy](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
 14. [MLP in stock prediction - part 2](https://www.rsisinternational.org/journals/ijrsi/digital-library/volume-5-issue-7/46-50.pdf)
 15. [Weight initializations](https://machinelearningmastery.com/weight-initialization-for-deep-learning-neural-networks/)
+16. [Inheriting classes](https://realpython.com/python-super/#an-overview-of-pythons-super-function)
