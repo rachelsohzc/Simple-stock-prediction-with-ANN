@@ -30,3 +30,4 @@ The dataset for this project can be found [here](https://www.kaggle.com/code/man
 15. [Weight initializations](https://machinelearningmastery.com/weight-initialization-for-deep-learning-neural-networks/)
 16. [Inheriting classes](https://realpython.com/python-super/#an-overview-of-pythons-super-function)
 17. [Sliding window method](https://ieeexplore.ieee.org/document/6136391)
+18. [Linear regression vs ANN in stock prediction](https://www.diva-portal.org/smash/get/diva2:1564492/FULLTEXT02.pdf)
