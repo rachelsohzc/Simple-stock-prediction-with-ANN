@@ -34,3 +34,4 @@ The dataset for this project can be found [here](https://www.kaggle.com/code/man
 19. [Linear regression vs ANN in stock prediction - part 2](https://www.researchgate.net/publication/251368933_Stock_Market_Forecasting_Artificial_Neural_Network_and_Linear_Regression_Comparison_in_An_Emerging_Market)
 20. [RNNs and the vanishing gradient problem](https://www.superdatascience.com/blogs/recurrent-neural-networks-rnn-the-vanishing-gradient-problem)
 21. [Sliding window method - part 2](https://www.ripublication.com/ijcir17/ijcirv13n5_46.pdf)
+22. [LSTM concepts](https://blog.mlreview.com/understanding-lstm-and-its-diagrams-37e2f46f1714)
