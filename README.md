@@ -35,3 +35,4 @@ The dataset for this project can be found [here](https://www.kaggle.com/code/man
 20. [RNNs and the vanishing gradient problem](https://www.superdatascience.com/blogs/recurrent-neural-networks-rnn-the-vanishing-gradient-problem)
 21. [Sliding window method - part 2](https://www.ripublication.com/ijcir17/ijcirv13n5_46.pdf)
 22. [LSTM concepts - part 2](https://blog.mlreview.com/understanding-lstm-and-its-diagrams-37e2f46f1714)
+23. [Activation functions study](https://arxiv.org/pdf/1811.03378.pdf)
