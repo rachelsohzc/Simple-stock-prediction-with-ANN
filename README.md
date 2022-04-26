@@ -40,3 +40,4 @@ The dataset for this project can be found [here](https://www.kaggle.com/code/man
 22. [LSTM concepts - part 2](https://blog.mlreview.com/understanding-lstm-and-its-diagrams-37e2f46f1714)
 23. [Activation functions study](https://arxiv.org/pdf/1811.03378.pdf)
 24. [Activation functions list](https://prateekvishnu.medium.com/activation-functions-in-neural-networks-bf5c542d5fec)
+25. [RNN models in prediction](https://towardsdatascience.com/building-rnn-lstm-and-gru-for-time-series-using-pytorch-a46e5b094e7b)
