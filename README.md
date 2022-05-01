@@ -24,7 +24,7 @@ The dataset for this project can be found [here](https://www.kaggle.com/code/man
 6. [Activation functions](https://www.analyticsvidhya.com/blog/2020/01/fundamentals-deep-learning-activation-functions-when-to-use-them/)
 7. [Activation functions study](https://arxiv.org/pdf/1811.03378.pdf)
 8. [Activation functions list](https://prateekvishnu.medium.com/activation-functions-in-neural-networks-bf5c542d5fec)
-9. [Hidden layer neurons](https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/)
+9. [Hidden layer structures](https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/)
 10. [Neural networks](https://www.pdfdrive.com/neural-networks-and-deep-learning-a-textbook-e184020999.html)
 11. [Weight initializations](https://machinelearningmastery.com/weight-initialization-for-deep-learning-neural-networks/)
 12. [Inheriting classes](https://realpython.com/python-super/#an-overview-of-pythons-super-function)
