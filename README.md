@@ -36,7 +36,7 @@ The dataset for this project can be found [here](https://www.kaggle.com/code/man
 18. [MLP in short-term predictions ](https://www.researchgate.net/publication/220798177_Short-term_stock_price_prediction_using_MLP_in_moving_simulation_mode)
 19. [Sliding window method - part 1](https://ieeexplore.ieee.org/document/6136391)
 20. [Sliding window method - part 2](https://www.ripublication.com/ijcir17/ijcirv13n5_46.pdf)
-21. [Recurrent neural networks](https://www.youtube.com/watch?v=LHXXI4-IEns&ab_channel=TheA.I.Hacker-MichaelPhi)
+21. [Recurrent neural networks introduction](https://www.youtube.com/watch?v=LHXXI4-IEns&ab_channel=TheA.I.Hacker-MichaelPhi)
 22. [RNN models in prediction](https://towardsdatascience.com/building-rnn-lstm-and-gru-for-time-series-using-pytorch-a46e5b094e7b)
 23. [Pytorch RNN implementation - part 1](https://www.youtube.com/watch?v=0_PgWWmauHk&ab_channel=PythonEngineer)
 24. [Pytorch RNN implementation - part 2](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_recurrent_neuralnetwork/)
