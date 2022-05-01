@@ -46,4 +46,5 @@ The dataset for this project can be found [here](https://www.kaggle.com/code/man
 28. [LSTM concepts - part 1](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 29. [LSTM concepts - part 2](https://blog.mlreview.com/understanding-lstm-and-its-diagrams-37e2f46f1714)
 30. [LSTM and GRU concepts](https://www.youtube.com/watch?v=8HyCNIVRbSU&t=585s&ab_channel=TheA.I.Hacker-MichaelPhi)
+31. [Pytorch LSTM implementation](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_lstm_neuralnetwork/)
 
