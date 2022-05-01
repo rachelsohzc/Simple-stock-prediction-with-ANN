@@ -40,6 +40,8 @@ The dataset for this project can be found [here](https://www.kaggle.com/code/man
 22. [Pytorch RNN implementation](https://www.youtube.com/watch?v=0_PgWWmauHk&ab_channel=PythonEngineer)
 23. [RNNs and the vanishing gradient problem - part 1](https://www.superdatascience.com/blogs/recurrent-neural-networks-rnn-the-vanishing-gradient-problem)
 24. [RNN and the vanishing gradient - part 2](https://medium.datadriveninvestor.com/how-do-lstm-networks-solve-the-problem-of-vanishing-gradients-a6784971a577)
-25. [LSTM concepts - part 1](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
-26. [LSTM concepts - part 2](https://blog.mlreview.com/understanding-lstm-and-its-diagrams-37e2f46f1714)
+25. [RNN and LSTM concepts](https://www.youtube.com/watch?v=WCUNPb-5EYI&ab_channel=BrandonRohrer)
+26. [LSTM concepts - part 1](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+27. [LSTM concepts - part 2](https://blog.mlreview.com/understanding-lstm-and-its-diagrams-37e2f46f1714)
+28. [LSTM and GRU concepts](https://www.youtube.com/watch?v=8HyCNIVRbSU&t=585s&ab_channel=TheA.I.Hacker-MichaelPhi)
 
