@@ -12,9 +12,6 @@ The dataset for this project can be found [here](https://www.kaggle.com/code/man
 
 ### Conclusion
 
-### Team members
-- Rafay Butt: https://github.com/raf201920011
-
 ### References
 1. [Linear regression vs ANN in stock prediction - part 1](https://www.diva-portal.org/smash/get/diva2:1564492/FULLTEXT02.pdf)
 2. [Linear regression vs ANN in stock prediction - part 2](https://www.researchgate.net/publication/251368933_Stock_Market_Forecasting_Artificial_Neural_Network_and_Linear_Regression_Comparison_in_An_Emerging_Market)
