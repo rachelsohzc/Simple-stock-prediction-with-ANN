@@ -47,6 +47,7 @@ The dataset for this project can be found [here](https://www.kaggle.com/code/man
 33. [LSTM concepts - part 1](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 34. [LSTM concepts - part 2](https://blog.mlreview.com/understanding-lstm-and-its-diagrams-37e2f46f1714)
 35. [LSTM concepts - part 3](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-36. [LSTM and GRU concepts](https://www.youtube.com/watch?v=8HyCNIVRbSU&t=585s&ab_channel=TheA.I.Hacker-MichaelPhi)
-37. [Pytorch LSTM implementation](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_lstm_neuralnetwork/)
+36. [LSTM units](https://www.pluralsight.com/guides/introduction-to-lstm-units-in-rnn)
+37. [LSTM and GRU concepts](https://www.youtube.com/watch?v=8HyCNIVRbSU&t=585s&ab_channel=TheA.I.Hacker-MichaelPhi)
+38. [Pytorch LSTM implementation](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_lstm_neuralnetwork/)
 
