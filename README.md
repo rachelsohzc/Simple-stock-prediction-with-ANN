@@ -22,6 +22,7 @@ The updated dataset for this project can be found [here](https://www.kaggle.com/
 7. [Activation functions](https://www.analyticsvidhya.com/blog/2020/01/fundamentals-deep-learning-activation-functions-when-to-use-them/)
 8. [Activation functions study](https://arxiv.org/pdf/1811.03378.pdf)
 9. [Activation functions list](https://prateekvishnu.medium.com/activation-functions-in-neural-networks-bf5c542d5fec)
+10. [Saddle point problem](https://proceedings.neurips.cc/paper/2014/file/17e23e50bedc63b4095e3d8204ce063b-Paper.pdf)
 11. [Weight initializations](https://machinelearningmastery.com/weight-initialization-for-deep-learning-neural-networks/)
 12. [Inheriting classes](https://realpython.com/python-super/#an-overview-of-pythons-super-function)
 13. [Dataloaders in Pytorch](https://www.youtube.com/watch?v=c36lUUr864M&t=12080s&ab_channel=PythonEngineer)
