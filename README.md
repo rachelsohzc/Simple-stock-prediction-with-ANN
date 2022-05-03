@@ -3,7 +3,9 @@
 ### Overview and motivation
 
 ### Description
-The updated dataset for this project can be found [here](https://www.kaggle.com/datasets/varpit94/facebook-stock-data). This code was last run on 3rd May 2022 with [this version](https://github.com/RS201918703/ST311-Project/blob/main/FB.csv) of the dataset.
+This is an academic project for ST311. The updated dataset for this project can be found [here](https://www.kaggle.com/datasets/varpit94/facebook-stock-data). This code was last run on 3rd May 2022 with [this version](https://github.com/RS201918703/ST311-Project/blob/main/FB.csv) of the dataset.
+
+### Notes
 
 ### How to run
 - Make sure you have the following packages: Pytorch, pandas
