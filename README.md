@@ -6,6 +6,8 @@ The task of predicting stock market prices is challenging. Stock prediction is o
 ### Notes
 I'm planning to work on an extension of this project. Consider this a foundation building project.
 
+![Image1](https://github.com/RS201918703/Simple-stock-prediction-with-ANN/blob/main/figs/ActualvsPreds.png)
+
 ### Description
 This is an academic project for ST311. The updated dataset for this project can be found [here](https://www.kaggle.com/datasets/varpit94/facebook-stock-data). This code was last run on 3rd May 2022 with [this version](https://github.com/RS201918703/ST311-Project/blob/main/FB.csv) of the dataset.
 
