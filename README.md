@@ -1,10 +1,8 @@
 # Stock price prediction using MLP, RNN, and LSTM
+Notes: I'm planning to work on an extension of this project. Consider this a foundation building project.
 
 ### Overview and motivation
 The task of predicting stock market prices is challenging. Stock prediction is of interest to most investors due to its high volatility. Even now, some investors use a combination of technical and fundamental analysis to help them make better decisions about their equity market investments.  A newly popular method many investors have been using is artificial networks. Therefore, this project aims to find out which ANN model has the best performance.
-
-### Notes
-I'm planning to work on an extension of this project. Consider this a foundation building project.
 
 ![Image1](https://github.com/RS201918703/Simple-stock-prediction-with-ANN/blob/main/figs/ActualvsPreds.png)
 
