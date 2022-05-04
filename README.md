@@ -1,14 +1,17 @@
-# Stock price prediction using LSTM and MLP
+# Stock price prediction using MLP, RNN, and LSTM
 
 ### Overview and motivation
+The task of predicting stock market prices is challenging. Stock prediction is of interest to most investors due to its high volatility. Even now, some investors use a combination of technical and fundamental analysis to help them make better decisions about their equity market investments.  A newly popular method many investors have been using is artificial networks. Therefore, this project aims to find out which ANN model has the best performance.
 
 ### Description
 This is an academic project for ST311. The updated dataset for this project can be found [here](https://www.kaggle.com/datasets/varpit94/facebook-stock-data). This code was last run on 3rd May 2022 with [this version](https://github.com/RS201918703/ST311-Project/blob/main/FB.csv) of the dataset.
 
 ### Notes
+I'm planning to work on an extension of this project. Consider this a foundation building project.
 
 ### How to run
-- Make sure you have the following packages: Pytorch, pandas
+- Make sure you have the following packages: [Pytorch](https://pytorch.org/), [Pandas](https://pandas.pydata.org/docs/getting_started/install.html), [NumPy](https://numpy.org/install/), [d2l](http://www.d2l.ai/chapter_installation/index.html), [scikit-learn](https://scikit-learn.org/stable/install.html), [math](https://pypi.org/project/python-math/), [matplotlib](https://matplotlib.org/stable/users/installing/index.html), [Seaborn](https://seaborn.pydata.org/installing.html)
+- Run the [code](https://github.com/RS201918703/Simple-stock-prediction-with-ANN/blob/main/Project%20code.ipynb) (All the code was run on CPU but use GPU if you wish)
 
 ### Improvements
 
